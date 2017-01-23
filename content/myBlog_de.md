@@ -1,6 +1,7 @@
 Title: This is my blog
 Category: Random Ramblings
 Lang: de
+Date: 2017-01-23
 Status: draft
 
 Das hier ist nun also mein Blog. Wie Viele vor mir, hatte ich das schon lange vor. Und meine Gründe sind vermutlich nicht sonderlich einmalig.
