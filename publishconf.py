@@ -12,6 +12,7 @@ from pelicanconf import *
 
 SITEURL = 'http://doingstuff.de'
 RELATIVE_URLS = False
+THEME = "/home/tre/workspace/pelican-themes/pelican-sober"
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
