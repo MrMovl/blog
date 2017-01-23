@@ -14,6 +14,7 @@ Wie auch in allen anderen Lebenslagen decken meine Interessen im Bezug auf das E
 - Funktionale Programmierung, da sich hier meine Denkweise am besten widerspiegelt
 - Code Qualität, denn unlesbarer code ist einfach unhöflich
 - Programmiersprachenvielfalt, denn ich glaube, dass es für jedes Problem ein passendes Werkzeug gibt.
+
 Etwas speziellere Felder sind aktuell:
 - Remote arbeiten, und technologien, die die asynchrone Kommunikation unterstützen
 - UX Design, da schöner Code in einem hässlichen Produkt auch nicht hilft
