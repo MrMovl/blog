@@ -1,7 +1,5 @@
 Title: About me
 Category: Me
-Authors: Tomke Reibisch
-Summary: About me
 Lang: de
 
 Moin
@@ -18,6 +16,10 @@ Wie auch in allen anderen Lebenslagen decken meine Interessen im Bezug auf das E
 Etwas speziellere Felder sind aktuell:
 - Remote arbeiten, und technologien, die die asynchrone Kommunikation unterstützen
 - UX Design, da schöner Code in einem hässlichen Produkt auch nicht hilft
+- Visualisierung und verarbeitung von Daten
 
+Ich arbeite bei der [graphomate GmbH](http://www.graphomate.com/) und erstelle dort tools für die Visualisierung von Geschäftsdaten.
 
+Neben der Programmierung interessiere ich mich für folgende Themen: Gemüseanbau, Tischlerei, Katzen, Rollenspiele, Linux, Wissenschaften, Literatur, Philosophie ... Nunja, die Fülle an Themen sollte überdeutlich machen, dass ich keines dieser Hobbies gemeistert habe. Das ist aber auch nicht mein Anspruch.
 
+Außerdem nehme ich mich selbst nicht so ernst, solltest du also vielleicht auch nicht.
