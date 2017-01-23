@@ -7,7 +7,6 @@ SITENAME = u'Doing Stuff'
 SITEURL = ''
 
 PATH = 'content'
-THEME = "/home/tre/workspace/pelican-themes/nmnlist"
 
 TIMEZONE = 'Europe/Berlin'
 
