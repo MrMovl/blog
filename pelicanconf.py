@@ -7,10 +7,11 @@ SITENAME = u'Doing Stuff'
 SITEURL = ''
 
 PATH = 'content'
+THEME = "/home/tre/workspace/pelican-themes/nmnlist"
 
 TIMEZONE = 'Europe/Berlin'
 
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = u'de'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -23,7 +24,8 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Gregor Codes', 'http://gregor.codes'),)
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/reibisch'),)
+SOCIAL = (('Twitter', 'https://twitter.com/reibisch'),
+        ('Github', 'https://github.com/MrMovl'),)
 
 DEFAULT_PAGINATION = False
 
