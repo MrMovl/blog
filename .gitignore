@@ -1,2 +1,4 @@
 build.sh
 output
+publishconf.pyc
+pelicanconf.pyc
