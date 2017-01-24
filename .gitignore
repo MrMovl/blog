@@ -1,4 +1,5 @@
-build.sh
 output
+!output/playground
+build.sh
 publishconf.pyc
 pelicanconf.pyc
