@@ -7,6 +7,7 @@ SITENAME = u'Doing Stuff'
 SITEURL = ''
 
 PATH = 'content'
+THEME = 'notmyidea'
 
 TIMEZONE = 'Europe/Berlin'
 
