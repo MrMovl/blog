@@ -21,7 +21,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Gregor Codes', 'http://gregor.codes'),)
+LINKS = (('My Playground', '/playground'),
+        ('Gregor Codes', 'http://gregor.codes'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/reibisch'),
