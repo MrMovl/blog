@@ -2,6 +2,7 @@ Title: Pelican Blog
 Category: Programming
 Lang: en
 Date: 2017-01-25
+Status: draft
 
 # Static sites are simple sites
 
