@@ -3,7 +3,6 @@ Category: Programming
 Lang: de
 Date: 2017-01-25
 Tags: elm, random, curry, functional programming
-Status: draft
 
 __Achtung:__ Lass diesen Artikel ruhig aus, wenn du lieber etwas mit Substanz liest, und nicht so gerne Meta Gerede.
 

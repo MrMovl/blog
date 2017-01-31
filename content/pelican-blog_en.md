@@ -2,7 +2,6 @@ Title: Pelican Blog
 Category: Programming
 Lang: en
 Date: 2017-01-25
-Status: draft
 
 # Static sites are simple sites
 
@@ -13,4 +12,4 @@ In the past I set up and maintained another blog. Back then I had heard about th
 And again [Gregor](www.gregor.codes) came to the rescue. His new blog was made using the static site generator [pelican](http://getpelican.org), written in python. I liked the idea of static site generators, but didn't want to ssh into my server all the time to deploy new articles. On the other hand python is great, and I had this blog set up in under one hour. Some minor troubles with the theme, but I guess I will build my own anyway.
 
 ## What this will become
-Here comes the funny part. I actually planed on writing my own blogging engine, because I wanted to build some bigger project in [Elm](www.elm-lang.org). I will elaborate on that thought in more detail [here]().
+Here comes the funny part. I actually planed on writing my own blogging engine, because I wanted to build some bigger project in [Elm](www.elm-lang.org). I will elaborate on that thought in more detail here.

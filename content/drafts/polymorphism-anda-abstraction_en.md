@@ -61,3 +61,6 @@ You might know this function. This signature can only yield on implementation. W
 ## What do we take away from this?
 
 I don't know where you are in your journey to functional programming, but for me this knowledge is a vital building block, which clicks in place with lots of stuff I learned recently. This fits perfectly with those elusive tidbits you might know about functors, monoids, monads and what have you. I will probably re-listen that episode if I find the time. And I will probably pick this topic up in the future. Stay tuned.
+
+### Further reading:
+This topic was also discussed by [John DeGoes](http://degoes.net/articles/insufficiently-polymorphic), though has a deeper and more vehement look at it. Also probably much more founded ;)
