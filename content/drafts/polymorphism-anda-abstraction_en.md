@@ -3,7 +3,6 @@ Category: Learning, Programming
 Lang: en
 Date: 2017-01-29
 Tags: learning, functional programming, podcast, programming 
-Status: draft
 
 # Wat?!
 
