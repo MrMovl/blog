@@ -1,5 +1,5 @@
 Title: Polymorphism and abstraction
-Category: Learning, Programming
+Category: Programming
 Lang: de
 Date: 2017-01-29
 Tags: learning, functional programming, podcast, programming 
