@@ -62,6 +62,8 @@ Seriously? Could it be? To the editor!
 
 Yes. In Firefox you need to set some data to the event. You don't need to read it later. You just have to set it, or the `dragstart` is the only event triggered.
 
+I admit, this is not the standard usage of this feature, but come on...
+
 ...
 
 If you want to read more, here is the [spec](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API).
