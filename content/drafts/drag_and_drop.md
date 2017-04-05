@@ -6,6 +6,8 @@ Tags: Bug, Firefox
 
 # Drag, but don't drop
 
+If Google brought you here, the solution to your drag and drop problem regarding firefox and the `drop` or `dragend` event, scroll to the bottom.
+
 Sometimes you stumble upon those weird bugs you just can't believe. When you finally find it you just burst out a quick laugh and stare at the screen in disbelieve for a minute. Sometimes curse words are appropriate. Today I had one of those, and I would like to remember it, so I am sharing it.
 
 ## Native Drag and drop
@@ -64,6 +66,7 @@ Yes. In Firefox you need to set some data to the event. You don't need to read i
 
 I admit, this is not the standard usage of this feature, but come on...
 
-...
+### TLDR
+In firefox only the `dragstart` event is fired, unless you use the `event.dataTransfer.setData()` function, even if you don't need it.
 
 If you want to read more, here is the [spec](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API).
