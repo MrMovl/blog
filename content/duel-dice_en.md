@@ -37,4 +37,4 @@ The other aspect is getting new dice. During battle, funds or scraps can be won 
 ## Technology
 No sideproject should go without learning something new. So I want to build the frontend with Elm and the backend using Elixir / Phoenix. I have used Elm quite a bit, but I am pretty new to Phoenix and I want to have some more certainty with backend languages.
 
-Enough for now, I gotta decide if I flesh out the rules anymore or build a Prototype. By the way, anyone interested in making artwork for this? Let me know via twitter or in the github project.
+Enough for now, I gotta decide if I flesh out the rules anymore or build a Prototype. By the way, anyone interested in making artwork for this? Let me know via [twitter](https://twitter.com/reibisch) or in the [github project](https://github.com/MrMovl/duel-dice).
