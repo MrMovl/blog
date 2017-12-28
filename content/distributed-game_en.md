@@ -6,7 +6,7 @@ Tags: programming, games
 
 # Distributed P2P Game
 
-As you might have read, I am playing around with the idea for a [game I would like to make](http://doingstuff.de/duel-dice.html). I haven't written much code yet as I have more time to think outside of work then to code. That's why I am sinking into another topic of the game right now, although there is not even a rudimentary prototype yet. But keep on reading if you like the idea of distributed networks on top of, or besides the oligarchic web we have today.
+As you might have read, I am playing around with the idea for a [game I would like to make](http://doingstuff.de/duel-dice.html). And recently I had some time to play around with the dat project and this made me think about what I'll be trying to elaborate on now. Keep on reading if you like the idea of distributed systems on top of, or besides the oligarchic web we have today.
 
 ## The inspiration
 
@@ -18,7 +18,7 @@ Even in the early stages of thinking about this game the idea of peer-to-peer ma
 
 ## The distributed part
 
-What more do you want from an online game that would have to live on after two players fought and logged of? If we accept that a single match can be fought between two clients without a server, what else is needed? I will just list the problems I can think of right now with a few comments. I am not sure if they can all be solved within a distributed system nor do I claim that this list is complete.
+What else do you want from an online game that would have to live on after two players fought and logged off? If we accept that a single match can be fought between two clients without a server, what else is needed? I will just list the problems I can think of right now with a few comments. I am not sure if they can all be solved within a distributed system nor do I claim that this list is complete.
 
 ### Matchmaking
 Before a match can start players need to find each other. This seems to be quite doable, at least in a simple format. Players could manually reach out to others and ask for a match. Some more elaborate matchmaking mechanisms might need a seperate, more centralized service, but I'm ok with that, as it is not absolutely necessary to play and because that doesn't influence the game ecosystem as a whole.
@@ -33,7 +33,7 @@ The first thing seems easy, it could just be a random card of the pool of possib
 According to the [dat project paper](https://github.com/datproject/docs/blob/master/papers/dat-paper.md) there is also something called a *register* for this purpose, but I don't know if that is even something different. Feel free to contact me, if you can explain this concept to me.
 
 ### Collection
-I talked about this already, but it deserves an extra h3 header. The fun of a collectible game is amassing a collection and building different decks to find combos and play styles that suit you. For this we need a body of cards that are available to collect and use. But if these are static and cannot be changed the game will eventually get dull. Most games deal with this by bringing out new additions for the game. Conveniently this is what keeps the business going and the players spending money. But it really is what people want as well. Of course this is easy with a centralized instance that can decide what new cards to and which old ones are better retired. The latter is very important for balancing because players will find that one mighty combo to beat everyone, even though no game designer initially thought of it.
+I talked about this already, but it deserves an extra h3. The fun of a collectible game is amassing a collection and building different decks to find combos and play styles that suit you. For this we need a body of cards that are available to collect and use. But if these are static and cannot be changed the game will eventually get dull. Most games deal with this by bringing out new additions for the game. Conveniently this is what keeps the business going and the players spending money. But it really is what people want as well. Of course this is easy with a centralized instance that can decide what new cards to and which old ones are better retired. The latter is very important for balancing because players will find that one mighty combo to beat everyone, even though no game designer initially thought of it.
 
 First I thought I would of course be the game master designing new cards and retiring old ones which are used too much. Then I thought that would be too much work and anger to float towards me, because I could never make every player happy. So I would need to take the players opinions into account. But then what is even my part in this? Why can't this all be automatic? How awesome would it be to have a self regulating pool of cards?
 
@@ -44,4 +44,4 @@ Did I just say every account gets one vote? Of course, for a centralized game ev
 
 ## Doable, but difficult
 
-I still like the idea, but I am not sure if all this is even possible. But then again, many things seems impossible.
+I still like the idea, but I am not sure if all this is even possible. Let's see where it goes.
